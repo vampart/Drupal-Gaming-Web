@@ -1,0 +1,8 @@
+Congratulations, you installed Drupal!
+Username: admin
+Password: wrJWvFEvLBULAMdR
+Drupal development server started: <http://127.0.0.1:8888>
+This server is not meant for production use.
+One time login url: <http://127.0.0.1:8888/en/user/reset/1/1692436392/avjVNN7hzX5
+NeK7JWj949vZf-QTkZFhTTbOw4ewjcpE/login>
+Press Ctrl-C to quit the Drupal development server.
